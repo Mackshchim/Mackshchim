@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id=header align=center>
+  <h1>Hi there, my name is Mackshchim!</h1>
+  <h3>Java and Golang developer form Kazan</h3>
+</div>
 
 <!--
 **Mackshchim/Mackshchim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
