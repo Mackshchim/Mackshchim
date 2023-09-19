@@ -4,10 +4,10 @@
 </div>
 
 <div id=contacts align=center>
-  <a href=https://www.linkedin.com/in/mackshchim/ target=»_blank> 
+  <a href=https://www.linkedin.com/in/mackshchim/ target=_blank> 
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%236495ED?style=for-the-badge&logo=LinkedIn">
   </a>
-  <a href=https://t.me/mackshchim target=»_blank>
+  <a href=https://t.me/mackshchim target=_blank>
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%236495ED?style=for-the-badge&logo=Telegram&logoColor=white"> 
   </a>
 </div>
