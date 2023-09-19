@@ -7,7 +7,7 @@
   <a href=https://www.linkedin.com/in/mackshchim/> 
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%236495ED?style=for-the-badge&logo=LinkedIn">
   </a>
-  <a href=[ssilka](https://t.me/mackshchim) >
+  <a href=https://t.me/mackshchim>
     <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%236495ED?style=for-the-badge&logo=Telegram&logoColor=white"> 
   </a>
 </div>
